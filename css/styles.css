@@ -1,0 +1,111 @@
+
+
+.navbar-brand {
+	margin-left : 25px;
+}
+
+
+
+.lcont {
+margin-right : 15px;
+}
+
+
+.top-div {
+padding-top : 50px;
+width : 85%;
+margin : auto;
+
+}
+
+
+.div1 {
+
+margin : auto;
+}
+
+
+.img1 {
+width : 40%;
+float : left;
+margin-right : 40px;
+}
+
+.text-head {
+font-family: 'Montserrat', sans-serif;
+text-align: left;
+font-size : 60px;
+}
+
+
+.btn1 {
+
+            padding: 10px 16px;
+            border-radius: 35px;
+            font-size: 22px;
+            text-align: center;
+	    background-color : #ECECEC;
+	    margin-left : 20px;
+        }
+
+
+
+.btn2 {
+            padding: 10px 16px;
+            border-radius: 35px;
+            font-size: 22px;
+            text-align: center;
+	    background-color : #ECECEC;
+	    margin-left : 20px;
+        }
+
+
+
+span {
+color : #3953e9;
+}
+
+.para-head {
+font-family: 'Roboto', sans-serif;
+text-align: left;
+}
+
+.mid-div {
+padding-top : 25px;
+background-color : #EFEFEF ;
+}
+
+.last-div {
+
+}
+
+.footer {
+height : 150px;
+background-color : #C1CFC0;
+}
+
+h2 {	
+font-family: 'Montserrat', sans-serif;
+text-align: center;
+}
+
+p {
+font-family: 'Roboto', sans-serif;
+text-align : center;
+}
+
+.mailbox {
+height: 50px;
+width: 450px;
+text-align: center;
+
+}
+
+.btn3 {
+	    width : 200px;
+            padding: 10px 16px;
+            border-radius: 35px;
+            font-size: 22px;
+            text-align: center;
+	    background-color : white;
+        }
